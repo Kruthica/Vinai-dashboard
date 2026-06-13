@@ -1,0 +1,6 @@
+{
+  "name": "Vinai",
+  "description": "An AI-powered mindful productivity operating system designed with a premium, bento-grid aesthetic inspired by Apple Human Interface, Notion, and Linear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
